@@ -1,5 +1,5 @@
 # Firstrepo
-First Lab rep
+First rep assignment
 # Steps to for first repo
   -Click on *new repository*<br>
   -Go to **gitbash**<br>
@@ -9,3 +9,4 @@ First Lab rep
   -Check ***git status***<br>
   -Commit<br>
   -Then git push origin branch name
+  - Create merge request
