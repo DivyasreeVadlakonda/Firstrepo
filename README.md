@@ -1,6 +1,6 @@
 # Firstrepo
  # Firstrepo
-First Lab rep
+First rep assignment
 # Steps to for first repo
 First rep for assignment
 # Steps for first repo
